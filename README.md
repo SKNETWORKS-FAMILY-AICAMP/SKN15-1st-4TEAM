@@ -37,14 +37,10 @@
 
 <br/> <br/> 
 
-
-
 ## 🛠️ 기술 스택
 <div>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white">    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </div><br/> <br/> 
-
-
 
 
 ## 📋 주요 기능 설명
@@ -53,10 +49,6 @@
 
 > 현재 등록된 브랜드별 차량수를 그래프로 보여줌으로써,
 중고차 시장에 대한 흐름을 쉽게 이해할 수 있도록 했습니다.
-
-
-
-
 
 
 ### ② 🚙 브랜드별 차량 정보 제공
@@ -68,9 +60,8 @@
 - 주행거리
 - 신차 가격
 - 현재 판매 가격
-  감가율(가격 하락 폭) 시각화로 브랜드별 중고차 가치 비교 가능 
-
-
+  감가율(가격 하락 폭) 시각화로 브랜드별 중고차 가치 비교 가능
+  
 
 ### ③ 🔍 조건별 차량 모델 검색
 
