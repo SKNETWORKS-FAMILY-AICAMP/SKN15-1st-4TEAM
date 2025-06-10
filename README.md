@@ -31,7 +31,7 @@
 
 | 👩 한승희 (팀장) | 👩 강민정 | 👩 신정은 | 👩 이은진 | 👩 최서린 |
 |:---:|:---:|:---:|:---:|:---:|
-| • 프로젝트 총괄<br/>• Crawling | • Crawling | • Streamlit | • Streamlit | • Streamlit 및 DB 구축 |
+| • 프로젝트 총괄<br/>• Crawling | • Crawling | • Streamlit | • Streamlit | • Streamlit<br/> DB 연동 |
 | [@seunghee-han](https://github.com/seunghee-han) | [@kmj212936](https://github.com/kmj212936) | [@jackie817](https://github.com/jackie817) | [@dmswls977](https://github.com/dmswls977) | [@seorinchoi](https://github.com/seorinchoi) |
 
 <br/> <br/> 
