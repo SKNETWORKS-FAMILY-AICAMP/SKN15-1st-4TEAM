@@ -34,7 +34,6 @@
 |:---:|:---:|:---:|:---:|:---:|
 | • 프로젝트 총괄<br/>• 데이터 크롤링 | • 데이터 크롤링 | • Streamlit | • Streamlit | • Streamlit 및 DB 구축 |
 | [@seunghee-han](https://github.com/seunghee-han) | [@kmj212936](https://github.com/kmj212936) | [@jackie817](https://github.com/jackie817) | [@dmswls977](https://github.com/dmswls977) | [@seorinchoi](https://github.com/seorinchoi) |
-
 <br/> <br/> 
 
 ## 🛠️ 기술 스택
