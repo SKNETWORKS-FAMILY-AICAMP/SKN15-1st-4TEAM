@@ -87,7 +87,7 @@
 
 
 # ERD
-https://cdn.discordapp.com/attachments/1380098600536772618/1381887588859777097/vehicle_ERD_.png?ex=6849269b&is=6847d51b&hm=a0d90b738a4af24a15f0ae6751dd231c1d5c48969dd40ac36fbf20e924c4ec45&
+![vehicle_ERD](https://github.com/user-attachments/assets/6a8fde51-8f7c-4d85-94c9-7e9667ddfe13)
 
 
 # 💭 한 줄 회고
